@@ -79,14 +79,9 @@ a {
     font-size: 20px;
 }
 
-.boxes img {
-    max-height: 200px;
-    width: 300px;
-}
-
 .boxes h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 40px;
 }
 
 .benefits {

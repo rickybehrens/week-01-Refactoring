@@ -26,10 +26,17 @@ WHEN I view the tittle element
 THEN i find a concise, descriptive title
 ```
 
-## Use the following questions as a guide:
+## What I Did
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-- What makes your project stand out?
+- Started by removing some of the "div" sections and adding a header, sections, aside and footers elements to the already existing code
+- Cleaned out the CSS file
+- Changed some of the font sizes to make them easier to read
+- Fixed the link's ids on the header so that they actually would take you to the part of the page
+- Matched the size of the "aside" element to the other boxes so that it would have a more simetrical look and therefore more appealing to the end user
+
+## What did I Learn?
+
+By doing the following changes, I learned about accesibility of a website and figre out that part of the sucess of said webaiste would be its appeal to the end user. Obviously there's room for improvement, but as my first assigment I feel very happy on how thisone came up.
+
+The more I learn, the more I can come back and continuously improve this one.
+

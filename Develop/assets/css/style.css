@@ -34,7 +34,7 @@ body {
 
 .header div ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 45px;
 }
 
 a {
@@ -81,7 +81,7 @@ a {
 
 .boxes h2 {
     margin-bottom: 20px;
-    font-size: px;
+    font-size: 30px;
 }
 
 .benefits {
@@ -97,7 +97,8 @@ a {
 
 .benefit-font {
     margin-bottom: 52px;
-    color: #ffffff
+    color: #ffffff;
+    text-align: center;
 }
 
 .benefit-font img {
